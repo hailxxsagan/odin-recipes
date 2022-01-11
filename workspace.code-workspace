@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"path": "../../repos/html-boilerplate"
+		},
+		{
+			"path": "../../repos/odin-links-and-images"
+		},
+		{
+			"name": "odin-recipes",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
